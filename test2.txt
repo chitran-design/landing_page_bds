@@ -4,6 +4,15 @@ aloaloalooooo
 
 hohohohoh
 
+<<<<<<< HEAD
 day la task1
 day la task1
 day la task1
+=======
+day la task2
+day la task2
+day la task2
+day la task1
+day la task1
+day la task1
+>>>>>>> d6bc5c2f5965fbb8991cabe85d954a8895070a1f
